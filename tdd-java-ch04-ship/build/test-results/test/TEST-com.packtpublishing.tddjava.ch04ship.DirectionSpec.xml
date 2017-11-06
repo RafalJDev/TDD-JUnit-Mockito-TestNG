@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.packtpublishing.tddjava.ch04ship.DirectionSpec" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-10-29T01:32:17" hostname="DESKTOP-0UNLB15" time="0.01">
+  <properties/>
+  <testcase name="givenNWhenLeftThenW" classname="com.packtpublishing.tddjava.ch04ship.DirectionSpec" time="0.007"/>
+  <testcase name="givenSWhenLeftThenE" classname="com.packtpublishing.tddjava.ch04ship.DirectionSpec" time="0.0"/>
+  <testcase name="givenSWhenRightThenW" classname="com.packtpublishing.tddjava.ch04ship.DirectionSpec" time="0.0"/>
+  <testcase name="givenWWhenRightThenN" classname="com.packtpublishing.tddjava.ch04ship.DirectionSpec" time="0.0"/>
+  <testcase name="whenGetFromShortNameBThenReturnNone" classname="com.packtpublishing.tddjava.ch04ship.DirectionSpec" time="0.0"/>
+  <testcase name="whenGetFromShortNameNThenReturnDirectionN" classname="com.packtpublishing.tddjava.ch04ship.DirectionSpec" time="0.0"/>
+  <testcase name="whenGetFromShortNameWThenReturnDirectionW" classname="com.packtpublishing.tddjava.ch04ship.DirectionSpec" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

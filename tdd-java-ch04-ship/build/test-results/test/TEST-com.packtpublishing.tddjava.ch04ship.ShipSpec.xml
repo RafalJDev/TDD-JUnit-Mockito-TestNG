@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.packtpublishing.tddjava.ch04ship.ShipSpec" tests="8" skipped="0" failures="0" errors="0" timestamp="2017-10-29T01:32:17" hostname="DESKTOP-0UNLB15" time="0.005">
+  <properties/>
+  <testcase name="whenInstantiatedThenPlanetIsStored" classname="com.packtpublishing.tddjava.ch04ship.ShipSpec" time="0.0"/>
+  <testcase name="whenInstantiatedThenSetLocation" classname="com.packtpublishing.tddjava.ch04ship.ShipSpec" time="0.0"/>
+  <testcase name="whenMoveBackwardsThenBackward" classname="com.packtpublishing.tddjava.ch04ship.ShipSpec" time="0.0"/>
+  <testcase name="whenMoveForwardsThenForward" classname="com.packtpublishing.tddjava.ch04ship.ShipSpec" time="0.0"/>
+  <testcase name="whenReceiveCommandFThenForward" classname="com.packtpublishing.tddjava.ch04ship.ShipSpec" time="0.0"/>
+  <testcase name="whenReceivedCommandsThenAllAreExecuted" classname="com.packtpublishing.tddjava.ch04ship.ShipSpec" time="0.0"/>
+  <testcase name="whenTurnLeftThenLeft" classname="com.packtpublishing.tddjava.ch04ship.ShipSpec" time="0.0"/>
+  <testcase name="whenTurnRightThenRight" classname="com.packtpublishing.tddjava.ch04ship.ShipSpec" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

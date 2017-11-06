@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.packtpublishing.tddjava.ch04ship.LocationSpec" tests="27" skipped="0" failures="0" errors="0" timestamp="2017-10-29T01:32:17" hostname="DESKTOP-0UNLB15" time="0.029">
+  <properties/>
+  <testcase name="givenDifferentDirectionWhenEqualsThenFalse" classname="com.packtpublishing.tddjava.ch04ship.LocationSpec" time="0.0"/>
+  <testcase name="givenDifferentObjectWhenEqualsThenFalse" classname="com.packtpublishing.tddjava.ch04ship.LocationSpec" time="0.0"/>
+  <testcase name="givenDifferentXWhenEqualsThenFalse" classname="com.packtpublishing.tddjava.ch04ship.LocationSpec" time="0.0"/>
+  <testcase name="givenDifferentYWhenEqualsThenFalse" classname="com.packtpublishing.tddjava.ch04ship.LocationSpec" time="0.0"/>
+  <testcase name="givenDirectionEAndXEqualsMaxXWhenForwardThen1" classname="com.packtpublishing.tddjava.ch04ship.LocationSpec" time="0.001"/>
+  <testcase name="givenDirectionEWhenBackwardThenXDecreases" classname="com.packtpublishing.tddjava.ch04ship.LocationSpec" time="0.0"/>
+  <testcase name="givenDirectionEWhenForwardThenXIncreases" classname="com.packtpublishing.tddjava.ch04ship.LocationSpec" time="0.001"/>
+  <testcase name="givenDirectionNAndYEquals1WhenForwardThenMaxY" classname="com.packtpublishing.tddjava.ch04ship.LocationSpec" time="0.0"/>
+  <testcase name="givenDirectionNWhenBackwardThenYIncreases" classname="com.packtpublishing.tddjava.ch04ship.LocationSpec" time="0.001"/>
+  <testcase name="givenDirectionNWhenForwardThenYDecreases" classname="com.packtpublishing.tddjava.ch04ship.LocationSpec" time="0.001"/>
+  <testcase name="givenDirectionSAndYEqualsMaxYWhenForwardThen1" classname="com.packtpublishing.tddjava.ch04ship.LocationSpec" time="0.001"/>
+  <testcase name="givenDirectionSWhenBackwardThenYDecreases" classname="com.packtpublishing.tddjava.ch04ship.LocationSpec" time="0.001"/>
+  <testcase name="givenDirectionSWhenForwardThenYIncreases" classname="com.packtpublishing.tddjava.ch04ship.LocationSpec" time="0.0"/>
+  <testcase name="givenDirectionWAndXEquals1WhenForwardThenMaxX" classname="com.packtpublishing.tddjava.ch04ship.LocationSpec" time="0.0"/>
+  <testcase name="givenDirectionWWhenBackwardThenXIncreases" classname="com.packtpublishing.tddjava.ch04ship.LocationSpec" time="0.0"/>
+  <testcase name="givenDirectionWWhenForwardThenXDecreases" classname="com.packtpublishing.tddjava.ch04ship.LocationSpec" time="0.0"/>
+  <testcase name="givenObstacleWhenBackwardThenReturnFalse" classname="com.packtpublishing.tddjava.ch04ship.LocationSpec" time="0.0"/>
+  <testcase name="givenObstacleWhenForwardThenReturnFalse" classname="com.packtpublishing.tddjava.ch04ship.LocationSpec" time="0.0"/>
+  <testcase name="givenSameObjectsWhenEqualsThenTrue" classname="com.packtpublishing.tddjava.ch04ship.LocationSpec" time="0.001"/>
+  <testcase name="givenSameXYDirectionWhenEqualsThenTrue" classname="com.packtpublishing.tddjava.ch04ship.LocationSpec" time="0.0"/>
+  <testcase name="whenCopyThenDifferentObject" classname="com.packtpublishing.tddjava.ch04ship.LocationSpec" time="0.0"/>
+  <testcase name="whenCopyThenEquals" classname="com.packtpublishing.tddjava.ch04ship.LocationSpec" time="0.0"/>
+  <testcase name="whenInstantiatedThenDirectionIsStored" classname="com.packtpublishing.tddjava.ch04ship.LocationSpec" time="0.0"/>
+  <testcase name="whenInstantiatedThenXIsStored" classname="com.packtpublishing.tddjava.ch04ship.LocationSpec" time="0.0"/>
+  <testcase name="whenInstantiatedThenYIsStored" classname="com.packtpublishing.tddjava.ch04ship.LocationSpec" time="0.0"/>
+  <testcase name="whenTurnLeftThenDirectionIsSet" classname="com.packtpublishing.tddjava.ch04ship.LocationSpec" time="0.0"/>
+  <testcase name="whenTurnRightThenDirectionIsSet" classname="com.packtpublishing.tddjava.ch04ship.LocationSpec" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
